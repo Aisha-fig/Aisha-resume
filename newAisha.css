@@ -34,6 +34,13 @@ a {
 	font-size: 1.45em;
 }
 
+.logo a,
+.main-nav a {
+	padding: 10px 15px;
+	text-transform: uppercase;
+	text-align: center;
+	display: block;
+}
 
 .header {
 	padding-top: .5em;
